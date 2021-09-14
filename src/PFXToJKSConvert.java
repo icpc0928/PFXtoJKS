@@ -9,9 +9,9 @@ public class PFXToJKSConvert {
 
     public static final String PKCS12 = "PKCS12";   //使用方式
     public static final String JKS = "JKS";         //匯出方式
-    public static final String INPUT_KEYSTORE_FILE = "C:/Users/Leo/Desktop/star.va-game.com/star.va-game.com.pfx";  //輸入文件
-    public static final String KEYSTORE_PASSWORD = "密碼打這裡";    //密碼
-    public static final String OUTPUT_KEYSTORE_FILE = "C:/Users/Leo/Desktop/star.va-game.com/star.va-game.com.jks"; //輸出文件
+    public static final String INPUT_KEYSTORE_FILE = "C:/Users/Leo/Desktop/star.va-game.site.pfx";  //輸入文件
+    public static final String KEYSTORE_PASSWORD = "123456";    //密碼
+    public static final String OUTPUT_KEYSTORE_FILE = "C:/Users/Leo/Desktop/star.va-game.site.jks"; //輸出文件
 
 
     public static void main(String[] args) {
